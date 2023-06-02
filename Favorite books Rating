@@ -1,0 +1,6 @@
+CREATE TABLE books (id integer primary key,name text, rating integer);
+INSERT INTO BOOKS VALUES (1,"DON QUIJOTE", 7);
+INSERT INTO BOOKS VALUES (2, "CINDIRELLA", 8);
+INSERT INTO BOOKS VALUES (3, "PINOCCHIO", 10);
+
+--listed favorite books with ratings for each
